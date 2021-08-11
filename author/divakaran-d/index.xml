@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Divakaran D</title>
-    <link>divakaran.divakaran.github.io/author/divakaran-d/</link>
-      <atom:link href="divakaran.divakaran.github.io/author/divakaran-d/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/divakaran-d.html</link>
+      <atom:link href="/author/divakaran-d/index.xml" rel="self" type="application/rss+xml" />
     <description>Divakaran D</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/divakaran.divakaran.github.io/author/divakaran-d/avatar_hu109e1957917970de973f93b31d7d854e_134088_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/author/divakaran-d/avatar_hu109e1957917970de973f93b31d7d854e_134088_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Divakaran D</title>
-      <link>divakaran.divakaran.github.io/author/divakaran-d/</link>
+      <link>/author/divakaran-d.html</link>
     </image>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>divakaran.divakaran.github.io/post/getting-started/</link>
+      <link>/post/getting-started.html</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>divakaran.divakaran.github.io/post/getting-started/</guid>
+      <guid>/post/getting-started.html</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -91,17 +91,17 @@
     
     <item>
       <title>Jittering Samples using a kd-Tree Stratification</title>
-      <link>divakaran.divakaran.github.io/publication/alexkartic/</link>
+      <link>/publication/alexkartic.html</link>
       <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>divakaran.divakaran.github.io/publication/alexkartic/</guid>
+      <guid>/publication/alexkartic.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>divakaran.divakaran.github.io/post/jupyter/</link>
+      <link>/post/jupyter.html</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>divakaran.divakaran.github.io/post/jupyter/</guid>
+      <guid>/post/jupyter.html</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -163,25 +163,25 @@ date: 2019-09-01
     
     <item>
       <title>Proper holomorphic mappings onto symmetric products of a Riemann surface</title>
-      <link>divakaran.divakaran.github.io/publication/bharaliindranil/</link>
+      <link>/publication/bharaliindranil.html</link>
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>divakaran.divakaran.github.io/publication/bharaliindranil/</guid>
+      <guid>/publication/bharaliindranil.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Finiteness theorems for holomorphic mapping from products of hyperbolic Riemann surfaces</title>
-      <link>divakaran.divakaran.github.io/publication/jaikrishnan/</link>
+      <link>/publication/jaikrishnan.html</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>divakaran.divakaran.github.io/publication/jaikrishnan/</guid>
+      <guid>/publication/jaikrishnan.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Compactness theorems for the spaces of distance measure spaces and Riemann surface laminations</title>
-      <link>divakaran.divakaran.github.io/publication/gadgil/</link>
+      <link>/publication/gadgil.html</link>
       <pubDate>Tue, 20 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>divakaran.divakaran.github.io/publication/gadgil/</guid>
+      <guid>/publication/gadgil.html</guid>
       <description></description>
     </item>
     

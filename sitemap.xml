@@ -2,127 +2,127 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>divakaran.divakaran.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/talk/example-talk/</loc>
+    <loc>/talk/example-talk.html</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/event/</loc>
+    <loc>/event.html</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/tag/academic/</loc>
+    <loc>/tag/academic.html</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/authors/</loc>
+    <loc>/authors.html</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/categories/</loc>
+    <loc>/categories.html</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/category/demo/</loc>
+    <loc>/category/demo.html</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/author/divakaran-d/</loc>
+    <loc>/author/divakaran-d.html</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/post/</loc>
+    <loc>/post.html</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/tags/</loc>
+    <loc>/tags.html</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/post/getting-started/</loc>
+    <loc>/post/getting-started.html</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94.html</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>/tag/%E5%BC%80%E6%BA%90.html</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>/category/%E6%95%99%E7%A8%8B.html</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>/post/2020-12-01-r-rmarkdown.html</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/tag/plot/</loc>
+    <loc>/tag/plot.html</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/category/r/</loc>
+    <loc>/category/r.html</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/tag/r-markdown/</loc>
+    <loc>/tag/r-markdown.html</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/tag/regression/</loc>
+    <loc>/tag/regression.html</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/author/alexandros-keros/</loc>
+    <loc>/author/alexandros-keros.html</loc>
     <lastmod>2020-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/publication/alexkartic/</loc>
+    <loc>/publication/alexkartic.html</loc>
     <lastmod>2020-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/author/kartic-subr/</loc>
+    <loc>/author/kartic-subr.html</loc>
     <lastmod>2020-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/publication/</loc>
+    <loc>/publication.html</loc>
     <lastmod>2020-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/post/writing-technical-content/</loc>
+    <loc>/post/writing-technical-content.html</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/post/jupyter/</loc>
+    <loc>/post/jupyter.html</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/slides/</loc>
+    <loc>/slides.html</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/slides/example/</loc>
+    <loc>/slides/example.html</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/author/gautam-bharali/</loc>
+    <loc>/author/gautam-bharali.html</loc>
     <lastmod>2018-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/author/indranil-biswas/</loc>
+    <loc>/author/indranil-biswas.html</loc>
     <lastmod>2018-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/author/jaikrishnan-janardhanan/</loc>
+    <loc>/author/jaikrishnan-janardhanan.html</loc>
     <lastmod>2018-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/publication/bharaliindranil/</loc>
+    <loc>/publication/bharaliindranil.html</loc>
     <lastmod>2018-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/publication/jaikrishnan/</loc>
+    <loc>/publication/jaikrishnan.html</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/tag/deep-learning/</loc>
+    <loc>/tag/deep-learning.html</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/tag/demo/</loc>
+    <loc>/tag/demo.html</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/project/external-project/</loc>
+    <loc>/project/external-project.html</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/project/internal-project/</loc>
+    <loc>/project/internal-project.html</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/project/</loc>
+    <loc>/project.html</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/publication/gadgil/</loc>
+    <loc>/publication/gadgil.html</loc>
     <lastmod>2015-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/author/siddhartha-gadgil/</loc>
+    <loc>/author/siddhartha-gadgil.html</loc>
     <lastmod>2015-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>divakaran.divakaran.github.io/admin/</loc>
+    <loc>/admin.html</loc>
   </url><url>
-    <loc>divakaran.divakaran.github.io/courses/</loc>
+    <loc>/courses.html</loc>
   </url><url>
-    <loc>divakaran.divakaran.github.io/publication_types/</loc>
+    <loc>/publication_types.html</loc>
   </url>
 </urlset>
