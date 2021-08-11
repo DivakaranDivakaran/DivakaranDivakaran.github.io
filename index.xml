@@ -21,6 +21,22 @@
     </item>
     
     <item>
+      <title>Calculus of Several Variables</title>
+      <link>/courses/csv.html</link>
+      <pubDate>Thu, 01 Apr 2021 12:30:00 +0000</pubDate>
+      <guid>/courses/csv.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calculus 1</title>
+      <link>/courses/calculus1.html</link>
+      <pubDate>Fri, 01 Jan 2021 12:30:00 +0000</pubDate>
+      <guid>/courses/calculus1.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
       <link>/post/getting-started.html</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
@@ -148,10 +164,26 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
+      <title>Linear Algebra</title>
+      <link>/courses/linearalgebra.html</link>
+      <pubDate>Tue, 01 Sep 2020 12:30:00 +0000</pubDate>
+      <guid>/courses/linearalgebra.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jittering Samples using a kd-Tree Stratification</title>
       <link>/publication/alexkartic.html</link>
       <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/publication/alexkartic.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calculus of Several Variables</title>
+      <link>/courses/analysis.html</link>
+      <pubDate>Wed, 01 Jan 2020 12:30:00 +0000</pubDate>
+      <guid>/courses/analysis.html</guid>
       <description></description>
     </item>
     
@@ -183,7 +215,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-649513827&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-542398761&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -193,7 +225,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-649513827&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-542398761&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -621,6 +653,14 @@ Three
     </item>
     
     <item>
+      <title>Real Analysis II</title>
+      <link>/courses/iiser.html</link>
+      <pubDate>Tue, 01 Aug 2017 12:30:00 +0000</pubDate>
+      <guid>/courses/iiser.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Finiteness theorems for holomorphic mapping from products of hyperbolic Riemann surfaces</title>
       <link>/publication/jaikrishnan.html</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -654,6 +694,14 @@ Three
       <link>/publication/gadgil.html</link>
       <pubDate>Tue, 20 Oct 2015 00:00:00 +0000</pubDate>
       <guid>/publication/gadgil.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algebraic topology</title>
+      <link>/courses/iisc.html</link>
+      <pubDate>Thu, 01 Jan 2015 12:30:00 +0000</pubDate>
+      <guid>/courses/iisc.html</guid>
       <description></description>
     </item>
     

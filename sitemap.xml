@@ -11,6 +11,15 @@
     <loc>/event.html</loc>
     <lastmod>2021-07-19T12:30:00+00:00</lastmod>
   </url><url>
+    <loc>/courses/csv.html</loc>
+    <lastmod>2021-04-01T12:30:00+00:00</lastmod>
+  </url><url>
+    <loc>/courses.html</loc>
+    <lastmod>2021-04-01T12:30:00+00:00</lastmod>
+  </url><url>
+    <loc>/courses/calculus1.html</loc>
+    <lastmod>2021-01-01T12:30:00+00:00</lastmod>
+  </url><url>
     <loc>/tag/academic.html</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -59,6 +68,9 @@
     <loc>/tag/regression.html</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
+    <loc>/courses/linearalgebra.html</loc>
+    <lastmod>2020-09-01T12:30:00+00:00</lastmod>
+  </url><url>
     <loc>/author/alexandros-keros.html</loc>
     <lastmod>2020-02-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -70,6 +82,9 @@
   </url><url>
     <loc>/publication.html</loc>
     <lastmod>2020-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/courses/analysis.html</loc>
+    <lastmod>2020-01-01T12:30:00+00:00</lastmod>
   </url><url>
     <loc>/post/writing-technical-content.html</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
@@ -95,6 +110,9 @@
     <loc>/publication/bharaliindranil.html</loc>
     <lastmod>2018-09-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/courses/iiser.html</loc>
+    <lastmod>2017-08-01T12:30:00+00:00</lastmod>
+  </url><url>
     <loc>/publication/jaikrishnan.html</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -119,9 +137,10 @@
     <loc>/author/siddhartha-gadgil.html</loc>
     <lastmod>2015-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/admin.html</loc>
+    <loc>/courses/iisc.html</loc>
+    <lastmod>2015-01-01T12:30:00+00:00</lastmod>
   </url><url>
-    <loc>/courses.html</loc>
+    <loc>/admin.html</loc>
   </url><url>
     <loc>/publication_types.html</loc>
   </url>

@@ -5,12 +5,60 @@
     <link>/courses.html</link>
       <atom:link href="/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 12:30:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Courses</title>
       <link>/courses.html</link>
     </image>
+    
+    <item>
+      <title>Calculus of Several Variables</title>
+      <link>/courses/csv.html</link>
+      <pubDate>Thu, 01 Apr 2021 12:30:00 +0000</pubDate>
+      <guid>/courses/csv.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calculus 1</title>
+      <link>/courses/calculus1.html</link>
+      <pubDate>Fri, 01 Jan 2021 12:30:00 +0000</pubDate>
+      <guid>/courses/calculus1.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear Algebra</title>
+      <link>/courses/linearalgebra.html</link>
+      <pubDate>Tue, 01 Sep 2020 12:30:00 +0000</pubDate>
+      <guid>/courses/linearalgebra.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calculus of Several Variables</title>
+      <link>/courses/analysis.html</link>
+      <pubDate>Wed, 01 Jan 2020 12:30:00 +0000</pubDate>
+      <guid>/courses/analysis.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real Analysis II</title>
+      <link>/courses/iiser.html</link>
+      <pubDate>Tue, 01 Aug 2017 12:30:00 +0000</pubDate>
+      <guid>/courses/iiser.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algebraic topology</title>
+      <link>/courses/iisc.html</link>
+      <pubDate>Thu, 01 Jan 2015 12:30:00 +0000</pubDate>
+      <guid>/courses/iisc.html</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
