@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/talk/constancy-of-the-ratio-of-circumference-to-diameter.html</loc>
-    <lastmod>2021-07-19T12:30:00+00:00</lastmod>
+    <loc>/courses.html</loc>
+    <lastmod>2021-08-01T12:30:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2021-08-01T12:30:00+00:00</lastmod>
+  </url><url>
+    <loc>/courses/intro1in2021.html</loc>
+    <lastmod>2021-08-01T12:30:00+00:00</lastmod>
+  </url><url>
+    <loc>/courses/programming.html</loc>
+    <lastmod>2021-08-01T12:30:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/constancy-of-the-ratio-of-circumference-to-diameter.html</loc>
     <lastmod>2021-07-19T12:30:00+00:00</lastmod>
   </url><url>
     <loc>/event.html</loc>
     <lastmod>2021-07-19T12:30:00+00:00</lastmod>
   </url><url>
     <loc>/courses/csv.html</loc>
-    <lastmod>2021-04-01T12:30:00+00:00</lastmod>
-  </url><url>
-    <loc>/courses.html</loc>
     <lastmod>2021-04-01T12:30:00+00:00</lastmod>
   </url><url>
     <loc>/courses/calculus1.html</loc>
