@@ -164,6 +164,14 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
+      <title>Introduction to Mathematical thinking 1</title>
+      <link>/courses/intro1in2020.html</link>
+      <pubDate>Tue, 01 Sep 2020 12:30:00 +0000</pubDate>
+      <guid>/courses/intro1in2020.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Linear Algebra</title>
       <link>/courses/linearalgebra.html</link>
       <pubDate>Tue, 01 Sep 2020 12:30:00 +0000</pubDate>
@@ -215,7 +223,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-542398761&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-162437598&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -225,7 +233,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-542398761&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-162437598&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
